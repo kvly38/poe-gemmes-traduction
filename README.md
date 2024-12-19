@@ -84,101 +84,103 @@
 ## Tier 2
 | Gemme de soutien (Anglais) | Traduction Française  | Description |
 |---------------------------|-----------------------|-------------|
-| Aftershock                |                       | Supports Slams you use yourself, giving them a chance to create an Aftershock. |
-| Auto Reload               |                       | Supports Crossbow Ammunition Skills, causing them to automatically reload when they Heavy Stun an enemy. |
-| Armour Explosion          | Explosion d'armure    | Supports Attacks, causing them to trigger a fiery explosion when they Fully Break an enemy’s armour. |
-| Ancestral Urgency         | Urgence ancestrale    | Supports skills which place Totems, causing those skills to place Totems much more quickly. |
-| Bludgeon                  | Matraquage            | Supports any skill that hits enemies, causing it to Knock back enemies. |
-| Demolisher                | Démolisseur           | Supports any skill, causing Armour Break it inflicts to be stronger. |
-| Devastate                 | Dévastation           | Supports any skill that hits enemies, causing them to apply Broken Armour to enemies when causing a Heavy Stun to enemies. |
-| Exploit Weakness          |                       | Supports any skill that hits enemies, causing them to deal more Damage against enemies with Broken Armour but preventing them from Breaking Armour themselves. Cannot support skills that Consume Broken Armour. |
-| Fire Penetration          |                       | Supports any skill that hits enemies, making those hits penetrate enemy Fire resistance. |
-| Font of Blood             | Fontaine de sang      | Supports skills which create stationary objects. Objects created by supported Skills generate a Font of Blood, creating an Aura which grants life regeneration. |
-| Fresh Clip                |                       | Supports Crossbow Skills, granting them more damage for each bolt reloaded by that skill in the last 6 seconds. |
-| Holy Descent              |                       | Supports skills that leap into the air, causing them to create Consecrated Ground when you land. |
-| Infernal Legion           |                       | Supports skills which create Minions, causing them and enemies near them to Burn. Damage dealt by the Burning is based off the Life of the supported Minion. |
-| Ironwood                  |                       | Supports skills which create Totems. Totems created by supported skills have additional Elemental Resistances. |
-| Heavy Swing               |                       | Supports Melee Attacks, boosting their Physical damage at the cost of Attack Speed. |
-| Herbalism                 |                       | Supports Persistent Buff Skills, causing you to gain increased Life recovery from Flasks while the Skill is active. |
-| Life Thief                |                       | Supports Attacks, causing their Physical damage to Leech Life. |
-| Primal Armament           |                       | Supports Attacks that use a weapon, causing them to deal more weapon Elemental damage. |
-| Raging Cry                |                       | Supports Warcry skills, causing them to grant you Rage on use. |
-| Splinter                  |                       | Supports skills that hit enemies, causing those hits to Break Armour based on a portion of Physical Damage dealt. |
-| Bullseye                  |                       | Supports Attacks, causing them to gain Accuracy. |
-| Blind                     |                       | Supports any skill that hits enemies, causing them to Blind on Hit. |
-| Close Combat              |                       | Supports Attacks, causing them to deal more damage to enemies based on how close they are to you. |
-| Lightning Penetration     |                       | Supports any skill that hits enemies, making those hits penetrate enemy Lightning resistance. |
-| Ingenuity                 |                       | Supports skills with cooldowns, increasing the rate at which those cooldowns recover. |
-| Ferocity                  |                       | Supports skills that you use yourself. Supported skills will consume a Frenzy Charge on use if possible, and will gain significant Skill Speed if they do. Supported skills cannot generate Frenzy Charges. |
-| Electrocute               |                       | Supports any skill which can deal damage. Lightning damage from supported skills can inflict Electrocute, but supported skills deal less damage. |
-| Longshot                  |                       | Supports Attacks, causing them to deal more damage from further away. |
-| Momentum                  |                       | Supports any damaging skill that you use yourself, causing it to deal more damage if you move a sufficient distance while using the skill. Teleportation does not count towards the distance travelled. |
-| Maim                      |                       | Supports Attacks, causing them to Maim enemies. |
-| Practiced Combo           |                       | Supports Strike Skills. Supported skills have a chance to build additional Combo on hit. Cannot support skills used by Minions. |
-| Ricochet                  |                       | Supports any skill which creates Projectiles, giving those Projectiles a chance to Chain when impacting terrain. |
-| Considered Casting        |                       | Supported Spell skills that Hit enemies, boosting Damage at the cost of Cast speed. |
-| Corpse Conservation       |                       | Supports skills that consume Corpses, giving them a chance to take effect without destroying the Corpse. |
-| Cold Penetration          |                       | Supports any skill that hits enemies, making those hits penetrate enemy Cold resistance. |
-| Coursing Current          |                       | Supports any skill that hits enemies, giving it a chance to also Shock nearby enemies when you Shock an enemy. |
-| Excise                    |                       | Supports any damaging skill that you use yourself, granting it a significantly higher chance to Critically hit, but causing it to gain a long cooldown. Cannot support skills which already have a cooldown. |
-| Feeding Frenzy            |                       | Supports skills that create Minions, making them deal and take more damage. |
-| Fiery Death               |                       | Supports any skill that hits enemies, causing explosions on killing Ignited enemies. |
-| Focused Curse             |                       | Supports Curse skills, causing them to Curse enemies more quickly after being cast. |
-| Inevitable Critical       |                       | Supports any skill you use yourself that hits enemies, causing it to accumulate Critical Hit chance over time. |
-| Hinder                    |                       | Supports skills that deal non-Ailment Chaos damage over time, causing damage over time they inflict to also Hinder enemies. |
-| Glacier                   |                       | Supports any skills which create Ice Crystals, causing them to be created with higher life. |
-| Font of Mana              | Fontaine de mana      | Supports skills which create stationary objects. Objects created by supported skills generate a Font of Mana, creating an Aura which grants Mana regeneration. |
-| Icicle                    |                       | Supports any skill which creates Ice Crystals, causing them to be created with lower life. |
-| Intense Agony             |                       | Supports Spells that deal non-Ailment damage over time, causing them to have a shorter duration but deal substantially more damage over time with Debuffs inflicted against enemies on full life. |
-| Impetus                   |                       | Supports Meta skills. Supported skills generate Energy significantly faster. |
-| Mana Flare                |                       | Supports any Spell that Hits enemies, causing it to trigger a Mana Flare on Critical hit. The mana Flare consumes your Mana to deal Fire damage. Cannot support the skills of Minions. |
-| Spell Echo                |                       | Supports spells that affect an area around you or a target location. Supported Spells echo, causing their effects to happen again after a short delay. Cannot support Channelling skills or Remote skills. |
-| Rising Tempest            |                       | Supports skills which deal damage, raising Elemental Damage dealt for each skill used recently of a different Elemental type. Cannot support Minion skills. |
-| Ritualistic Curse         |                       | Supports Curse skills, causing them to cover a larger area but take longer to Curse enemies. |
-| Potential                 |                       | Supports Skills that you use yourself. Supported Skills will consume a Power Charge on use if possible, and will be much more likely to Critically hit if they do. Supported skills cannot generate Power Charges. |
-| Soul Thief                |                       | Supports Attacks, causing their Physical damage to leech Mana. |
-| Shock Siphon              |                       | Supports any skill that hits enemies, causing you to recover Energy Shield when it kills a Shocked enemy. |
-| Strip Away                |                       | Supports skills which apply Exposure to enemies, increasing the effect of applied Exposure. |
-| Wildfire                  |                       | Supports any skill that hits enemies. Spreading Ignites it inflicts to nearby enemies after a delay. |
+| Gemme de soutien (Anglais)   | Traduction Française    | Description |
+|-----------------------------|-------------------------|-------------|
+| Aftershock                  | Réplique                | Supports Slams you use yourself, giving them a chance to create an Aftershock. |
+| Auto Reload                 | Rechargement automatique | Supports Crossbow Ammunition Skills, causing them to automatically reload when they Heavy Stun an enemy. |
+| Armour Explosion            | Explosion d'armure      | Supports Attacks, causing them to trigger a fiery explosion when they Fully Break an enemy’s armour. |
+| Ancestral Urgency           | Urgence ancestrale      | Supports skills which place Totems, causing those skills to place Totems much more quickly. |
+| Bludgeon                    | Matraquage              | Supports any skill that hits enemies, causing it to Knock back enemies. |
+| Demolisher                  | Démolisseur             | Supports any skill, causing Armour Break it inflicts to be stronger. |
+| Devastate                   | Dévastation             | Supports any skill that hits enemies, causing them to apply Broken Armour to enemies when causing a Heavy Stun to enemies. |
+| Exploit Weakness            | Exploitation de faiblesse | Supports any skill that hits enemies, causing them to deal more Damage against enemies with Broken Armour but preventing them from Breaking Armour themselves. Cannot support skills that Consume Broken Armour. |
+| Fire Penetration            | Pénétration du feu      | Supports any skill that hits enemies, making those hits penetrate enemy Fire resistance. |
+| Font of Blood               | Fontaine de sang        | Supports skills which create stationary objects. Objects created by supported Skills generate a Font of Blood, creating an Aura which grants life regeneration. |
+| Fresh Clip                  | Chargeur flambant neuf  | Supports Crossbow Skills, granting them more damage for each bolt reloaded by that skill in the last 6 seconds. |
+| Holy Descent                | Descente sacrée         | Supports skills that leap into the air, causing them to create Consecrated Ground when you land. |
+| Infernal Legion             | Légion infernale        | Supports skills which create Minions, causing them and enemies near them to Burn. Damage dealt by the Burning is based off the Life of the supported Minion. |
+| Ironwood                    | Bois de fer             | Supports skills which create Totems. Totems created by supported skills have additional Elemental Resistances. |
+| Heavy Swing                 | Coup massif             | Supports Melee Attacks, boosting their Physical damage at the cost of Attack Speed. |
+| Herbalism                   | Phytothérapie           | Supports Persistent Buff Skills, causing you to gain increased Life recovery from Flasks while the Skill is active. |
+| Life Thief                  | Voleur de vie           | Supports Attacks, causing their Physical damage to Leech Life. |
+| Primal Armament             | Armement primordial     | Supports Attacks that use a weapon, causing them to deal more weapon Elemental damage. |
+| Raging Cry                  | Cri de rage             | Supports Warcry skills, causing them to grant you Rage on use. |
+| Splinter                    | Scindement              | Supports skills that hit enemies, causing those hits to Break Armour based on a portion of Physical Damage dealt. |
+| Bullseye                    | En plein dans le mille  | Supports Attacks, causing them to gain Accuracy. |
+| Blind                       | Aveuglement             | Supports any skill that hits enemies, causing them to Blind on Hit. |
+| Close Combat                | Combat rapproché        | Supports Attacks, causing them to deal more damage to enemies based on how close they are to you. |
+| Lightning Penetration       | Pénétration de la foudre | Supports any skill that hits enemies, making those hits penetrate enemy Lightning resistance. |
+| Ingenuity                   | Ingéniosité             | Supports skills with cooldowns, increasing the rate at which those cooldowns recover. |
+| Ferocity                    | Férocité                | Supports skills that you use yourself. Supported skills will consume a Frenzy Charge on use if possible, and will gain significant Skill Speed if they do. Supported skills cannot generate Frenzy Charges. |
+| Electrocute                 | Foudroiement            | Supports any skill which can deal damage. Lightning damage from supported skills can inflict Electrocute, but supported skills deal less damage. |
+| Longshot                    | Tir à longue distance   | Supports Attacks, causing them to deal more damage from further away. |
+| Momentum                    | Accélération            | Supports any damaging skill that you use yourself, causing it to deal more damage if you move a sufficient distance while using the skill. Teleportation does not count towards the distance travelled. |
+| Maim                        | Mutilation              | Supports Attacks, causing them to Maim enemies. |
+| Practiced Combo             | Enchaînement maîtrisé   | Supports Strike Skills. Supported skills have a chance to build additional Combo on hit. Cannot support skills used by Minions. |
+| Ricochet                    | Rebond                  | Supports any skill which creates Projectiles, giving those Projectiles a chance to Chain when impacting terrain. |
+| Considered Casting          | Incantation réfléchie   | Supported Spell skills that Hit enemies, boosting Damage at the cost of Cast speed. |
+| Corpse Conservation         | Conservation de cadavres | Supports skills that consume Corpses, giving them a chance to take effect without destroying the Corpse. |
+| Cold Penetration            | Pénétration du froid    | Supports any skill that hits enemies, making those hits penetrate enemy Cold resistance. |
+| Coursing Current            | Coursing Current        | Supports any skill that hits enemies, giving it a chance to also Shock nearby enemies when you Shock an enemy. |
+| Excise                      | Excision                | Supports any damaging skill that you use yourself, granting it a significantly higher chance to Critically hit, but causing it to gain a long cooldown. Cannot support skills which already have a cooldown. |
+| Feeding Frenzy              | Frénésie dévorante      | Supports skills that create Minions, making them deal and take more damage. |
+| Fiery Death                 | Mort ardente            | Supports any skill that hits enemies, causing explosions on killing Ignited enemies. |
+| Focused Curse               | Malédiction ciblée      | Supports Curse skills, causing them to Curse enemies more quickly after being cast. |
+| Inevitable Critical         | Critique inévitable     | Supports any skill you use yourself that hits enemies, causing it to accumulate Critical Hit chance over time. |
+| Hinder                      | Entrave                 | Supports skills that deal non-Ailment Chaos damage over time, causing damage over time they inflict to also Hinder enemies. |
+| Glacier                     | Glacier                 | Supports any skills which create Ice Crystals, causing them to be created with higher life. |
+| Font of Mana                | Fontaine de mana        | Supports skills which create stationary objects. Objects created by supported skills generate a Font of Mana, creating an Aura which grants Mana regeneration. |
+| Icicle                      | Icicle                  | Supports any skill which creates Ice Crystals, causing them to be created with lower life. |
+| Intense Agony               | Agonie intense          | Supports Spells that deal non-Ailment damage over time, causing them to have a shorter duration but deal substantially more damage over time with Debuffs inflicted against enemies on full life. |
+| Impetus                     | Impulsion               | Supports Meta skills. Supported skills generate Energy significantly faster. |
+| Mana Flare                  | Flamboiement de Mana    | Supports any Spell that Hits enemies, causing it to trigger a Mana Flare on Critical hit. The mana Flare consumes your Mana to deal Fire damage. Cannot support the skills of Minions. |
+| Spell Echo                  | Écho de sort            | Supports spells that affect an area around you or a target location. Supported Spells echo, causing their effects to happen again after a short delay. Cannot support Channelling skills or Remote skills. |
+| Rising Tempest              | Tempête croissante      | Supports skills which deal damage, raising Elemental Damage dealt for each skill used recently of a different Elemental type. Cannot support Minion skills. |
+| Ritualistic Curse           | Malédiction rituelle    | Supports Curse skills, causing them to cover a larger area but take longer to Curse enemies. |
+| Potential                   | Potentiel               | Supports Skills that you use yourself. Supported Skills will consume a Power Charge on use if possible, and will be much more likely to Critically hit if they do. Supported skills cannot generate Power Charges. |
+| Soul Thief                  | Voleur d'âme            | Supports Attacks, causing their Physical damage to leech Mana. |
+| Shock Siphon                | Siphon de choc          | Supports any skill that hits enemies, causing you to recover Energy Shield when it kills a Shocked enemy. |
+| Strip Away                  | Dépouiller              | Supports skills which apply Exposure to enemies, increasing the effect of applied Exposure. |
+| Wildfire                    | Feu sauvage             | Supports any skill that hits enemies. Spreading Ignites it inflicts to nearby enemies after a delay. |
 
 ## Tier 3
-| Gemme de soutien (Anglais) | Traduction Française  | Description |
-|---------------------------|-----------------------|-------------|
-| Despoiler                 |                       | Supports skills that create Ground Surfaces, causing those surfaces to last longer. |
-| Deep Cuts                 |                       | Supports any skill that hits enemies, causing it to deal less damage but inflict more potent Bleeding. |
-| Cannibalism               |                       | Supports Persistent Buff Skills, causing you to recover Life on a kill while the Skill is active. |
-| Behead                    |                       | Supports Strike skills, causing them to steal modifiers from rare monsters they kill. |
-| Dazing Cry                |                       | Supports Warcries, causing them to Daze enemies on use. |
-| Enraged Warcry           |                       | Supports Warcries, causing them to consume Rage to further boost Empowered Attacks. |
-| Fire Exposure             |                       | Supports any skill that hits enemies, causing it to deal less damage but inflict Fire Exposure when it Ignites an enemy. |
-| Font of Rage              |                       | Supports skills which create stationary objects. Objects created by supported Skills generate a Font of Rage, creating an Aura which grants Rage over time, as well as preventing Rage loss. |
-| Rageforged                |                       | Supports any damaging skill that you use or trigger yourself, causing it to consume rage to deal more damage. If you don’t have enough rage to consume, the damage bonus will not apply. |
-| Long Fuse                 |                       | Supports skills which fire Grenades, causing those grenades to have much higher duration and damage. |
-| Immolate                  |                       | Supports Attacks, granting them extra Fire damage against Ignited enemies but making them unable to Ignite enemies themselves. |
-| Heft                      |                       | Supports skills which deal damage, increasing the maximum Physical damage of their hits. |
-| Rupture                   |                       | Supports skills that hit enemies. Supported skills Aggravate Bleeding on hitting Heavily Stunned enemies. |
-| Searing Flame             |                       | Supports any skill that hits enemies, causing inflicted Ignites to deal more damage but its Hits to deal less damage. |
-| Upheaval                  |                       | Supports Melee Attacks which create fissures in the ground, causing them to create additional fissures at the cost of damage and attack speed. |
-| Culmination               |                       | Supports Melee Attack skills. Supported skills gain Combo when you successfully Strike enemies with other Melee Attacks. |
-| Culling Strike            |                       | Supports Attack skills, causing them to Cull rare and Unique enemies on hit. |
-| Deadly Poison             |                       | Supports any skill that hits enemies, causing it to deal less damage but inflict more potent Poison. |
-| Discombobulate            |                       | Supports Attacks, causing them to build up Daze based on a portion of Physical damage dealt. |
-| Mana Bounty               |                       | Supports any skill that hits enemies, causing enemies it kills to grant more Mana Flask charges. |
-| Life Bounty               |                       | Supports any skill that Hits enemies, causing enemies it kills to grant more Life Flask charges. |
-| Lightning Exposure        |                       | Supports any skill that hits enemies, causing it to deal less damage but inflict lightning Exposure when it Shocks an enemy. |
-| Fork                      |                       | Supports Projectile skills, making the Projectiles Fork. |
-| Mobility                  |                       | Supports skills that can be used while moving, allowing you to move faster while using them. |
-| Neural Overload           |                       | Supports any skill that hits enemies. Nearby enemies are marked when they are Primed for Electrocution, and hitting a marked enemy with a supported skill will Elecrocute them. |
-| Nimble Reload             |                       | Supports Crossbow Ammunition skills, causing them to reload bolts significantly faster. |
-| Overcharge                |                       | Supports any skill that hits enemies, making its Shocks more effective but last for a shorter duration. |
-| Soul Drain                |                       | Supports any skill that hits enemies, causing you to recover Mana when it Culls an enemy. |
-| Payload                   |                       | Supports skills which fire Grenades, giving fired Grenades a chance to activate again, but lengthening their cooldown. |
-| Biting Frost              |                       | Supports any skill that hits enemies, causing them to deal more damage to Frozen enemies but consume their Freeze. |
-| Burning Inscription       |                       | Supports any skill which creates Runic Inscriptions when cast, causing those Runic Inscriptions to create Ignited Ground, that deals damage based off of your maximum Mana. |
-| Astral Projection         |                       | Supports Nova skills, causing those Skills to take place at the targeted location when used instead of around you. |
-| Ablation                  |                       | Supports Offering skills. Supported skills Sacrifice a portion of your life on use, but deal much more damage and have more powerful Buffs in return. |
-| Cold Exposure             |                       | Supports any skill that hits enemies, causing it to deal less damage but inflict Cold Exposure when it Critically Hits an enemy. |
-| Chaos Infusion            |                       | Supports attacks, causing them to gain Chaos Damage but deal less damage of other types. |
-| Capacitor                 |                       | Supports Invocation skills which trigger other skills. Supported skills have significantly higher maximum Energy. |
-| Chaos Mastery             |                       | Supports Chaos skills, granting them an additional level. |
-| Danse Macabre             |                       | Supports Offering skills. Supported skills have increased Buff effect and deal more damage, but will target an additional skeletal Minion when cast. |
+| Gemme de soutien (Anglais)   | Traduction Française    | Description |
+|-----------------------------|-------------------------|-------------|
+| Despoiler                   | Dépouilleur             | Supports skills that create Ground Surfaces, causing those surfaces to last longer. |
+| Deep Cuts                   | Entailles profondes     | Supports any skill that hits enemies, causing it to deal less damage but inflict more potent Bleeding. |
+| Cannibalism                 | Cannibalisme            | Supports Persistent Buff Skills, causing you to recover Life on a kill while the Skill is active. |
+| Behead                      | Décapitation            | Supports Strike skills, causing them to steal modifiers from rare monsters they kill. |
+| Dazing Cry                  | Cri de rage             | Supports Warcries, causing them to Daze enemies on use. |
+| Enraged Warcry              | Cri de guerre enragé    | Supports Warcries, causing them to consume Rage to further boost Empowered Attacks. |
+| Fire Exposure               | Exposition au feu       | Supports any skill that hits enemies, causing it to deal less damage but inflict Fire Exposure when it Ignites an enemy. |
+| Font of Rage                | Fontaine de Rage        | Supports skills which create stationary objects. Objects created by supported Skills generate a Font of Rage, creating an Aura which grants Rage over time, as well as preventing Rage loss. |
+| Rageforged                  | Rage forgée             | Supports any damaging skill that you use or trigger yourself, causing it to consume rage to deal more damage. If you don’t have enough rage to consume, the damage bonus will not apply. |
+| Long Fuse                   | Fuse longue             | Supports skills which fire Grenades, causing those grenades to have much higher duration and damage. |
+| Immolate                    | Immolation             | Supports Attacks, granting them extra Fire damage against Ignited enemies but making them unable to Ignite enemies themselves. |
+| Heft                        | Poids lourd             | Supports skills which deal damage, increasing the maximum Physical damage of their hits. |
+| Rupture                     | Rupture                 | Supports skills that hit enemies. Supported skills Aggravate Bleeding on hitting Heavily Stunned enemies. |
+| Searing Flame               | Flamme calcinante       | Supports any skill that hits enemies, causing inflicted Ignites to deal more damage but its Hits to deal less damage. |
+| Upheaval                    | Soulèvement            | Supports Melee Attacks which create fissures in the ground, causing them to create additional fissures at the cost of damage and attack speed. |
+| Culmination                 | Apogée                  | Supports Melee Attack skills. Supported skills gain Combo when you successfully Strike enemies with other Melee Attacks. |
+| Culling Strike              | Faucheuse               | Supports Attack skills, causing them to Cull rare and Unique enemies on hit. |
+| Deadly Poison               | Poison mortel           | Supports any skill that hits enemies, causing it to deal less damage but inflict more potent Poison. |
+| Discombobulate              | Désorientation          | Supports Attacks, causing them to build up Daze based on a portion of Physical damage dealt. |
+| Mana Bounty                 | Prime de mana           | Supports any skill that hits enemies, causing enemies it kills to grant more Mana Flask charges. |
+| Life Bounty                 | Prime de vie            | Supports any skill that Hits enemies, causing enemies it kills to grant more Life Flask charges. |
+| Lightning Exposure          | Exposition à la foudre  | Supports any skill that hits enemies, causing it to deal less damage but inflict lightning Exposure when it Shocks an enemy. |
+| Fork                        | Fourche                 | Supports Projectile skills, making the Projectiles Fork. |
+| Mobility                    | Mobilité               | Supports skills that can be used while moving, allowing you to move faster while using them. |
+| Neural Overload             | Surcharge neuronale     | Supports any skill that hits enemies. Nearby enemies are marked when they are Primed for Electrocution, and hitting a marked enemy with a supported skill will Elecrocute them. |
+| Nimble Reload               | Rechargement rapide     | Supports Crossbow Ammunition skills, causing them to reload bolts significantly faster. |
+| Overcharge                  | Surcharge               | Supports any skill that hits enemies, making its Shocks more effective but last for a shorter duration. |
+| Soul Drain                  | Drain d'âme            | Supports any skill that hits enemies, causing you to recover Mana when it Culls an enemy. |
+| Payload                     | Charge utile           | Supports skills which fire Grenades, giving fired Grenades a chance to activate again, but lengthening their cooldown. |
+| Biting Frost                | Morsure du froid        | Supports any skill that hits enemies, causing them to deal more damage to Frozen enemies but consume their Freeze. |
+| Burning Inscription         | Inscription brûlante    | Supports any skill which creates Runic Inscriptions when cast, causing those Runic Inscriptions to create Ignited Ground, that deals damage based off of your maximum Mana. |
+| Astral Projection           | Projection astrale      | Supports Nova skills, causing those Skills to take place at the targeted location when used instead of around you. |
+| Ablation                    | Ablation                | Supports Offering skills. Supported skills Sacrifice a portion of your life on use, but deal much more damage and have more powerful Buffs in return. |
+| Cold Exposure               | Exposition au froid     | Supports any skill that hits enemies, causing it to deal less damage but inflict Cold Exposure when it Critically Hits an enemy. |
+| Chaos Infusion              | Infusion de chaos       | Supports attacks, causing them to gain Chaos Damage but deal less damage of other types. |
+| Capacitor                   | Condensateur            | Supports Invocation skills which trigger other skills. Supported skills have significantly higher maximum Energy. |
+| Chaos Mastery               | Maîtrise du chaos       | Supports Chaos skills, granting them an additional level. |
+| Danse Macabre               | Danse macabre           | Supports Offering skills. Supported skills have increased Buff effect and deal more damage, but will target an additional skeletal Minion when cast. |
