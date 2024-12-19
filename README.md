@@ -1,84 +1,73 @@
 # Complete List of Gems (English-French Correspondence)
+## Tier 1
 
-- **Ablation** : Ablation
-- **Acceleration** : Accélération
-- **Ambush** : Embuscade
-- **Ammo Conservation** : Conservation de munitions
-- **Ancestral Urgency** : Urgence ancestrale
-- **Arcane Surge** : Déferlante arcanique
-- **Arcane Tempo** : Tempo arcanique
-- **Armour Explosion** : Explosion d'armure
-- **Bloodlust** : Soif de sang
-- **Bludgeon** : Matraquage
-- **Break Endurance** : Briser et Endurer
-- **Brutality** : Brutalité
-- **Burning Inscription** : Inscription brûlante
-- **Chain** : Chaîne
-- **Clarity** : Clarté
-- **Cold Infusion** : Infusion de froid
-- **Combo Finisher** : Finisseur combiné
-- **Corrosion** : Corrosion
-- **Corrupting Cry** : Cri corrupteur
-- **Crescendo** : Crescendo
-- **Deadly Poison** : Poison mortel
-- **Decaying Hex** : Malédiction intensifiée
-- **Deceleration** : Décélération
-- **Deep Freeze** : Congélation
-- **Demolisher** : Démolisseur
-- **Devastate** : Dévastation
-- **Double Barrel** : Double canon
-- **Electrocute** : Électrocution
-- **Elemental Army** : Armée élémentaire
-- **Elemental Focus** : Focalisation élémentaire
-- **Encumbrance** : Accablement
-- **Envenom** : Envenimation
-- **Fire Exposure** : Exposition au feu
-- **Fire Infusion** : Infusion de feu
-- **Fire Mastery** : Maîtrise du feu
-- **Font of Blood** : Fontaine de sang
-- **Font of Mana** : Fontaine de mana
-- **Font of Rage** : Rage exaltante
-- **Frostfire** : Froid ardent
-- **Glaciation** : Glaciation
-- **Immolate** : Immolation
-- **Impact Shockwave** : Onde de choc
-- **Life Bounty** : Prime de vie
-- **Lightning Exposure** : Exposition à la foudre
-- **Lightning Mastery** : Maîtrise de la foudre
-- **Long Fuse** : Détonateur long
-- **Minion Instability** : Instabilité des créatures
-- **Mobility** : Mobilité
-- **Neural Overload** : Surcharge neuronale
-- **Nimble Reload** : Rechargement rapide
-- **Overabundance** : Surabondance
-- **Overcharge** : Surcharge
-- **Overpower** : Surpuissance
-- **Payload** : Charge utile
-- **Perpetual Charge** : Charge perpétuelle
-- **Physical Mastery** : Maîtrise physique
-- **Pierce** : Transpercement
-- **Pin** : Clouage
-- **Premeditation** : Préméditation
-- **Profusion** : Profusion
-- **Rage** : Rage
-- **Rageforged** : Forgé par la rage
-- **Raging Cry** : Cri de rage
-- **Rupture** : Rupture
-- **Scattershot** : Tir dispersé
-- **Searing Flame** : Flamme calcinante
-- **Second Wind** : Second souffle
-- **Soul Drain** : Drain d'âme
-- **Spell Cascade** : Cascade de sorts
-- **Stomping Ground** : Terrain de frappe
-- **Stormfire** : Feu d'orage
-- **Supercritical** : Supercritique
-- **Swift Affliction** : Affliction fulgurante
-- **Tremors** : Tremblements
-- **Unbreakable** : Inébranlable
-- **Unleash** : Déchaînement
-- **Upheaval** : Rébellion
-- **Vitality** : Vitalité
-- **Wildshards** : Éclats sauvages
-- **Wind Wave** : Vague de vent
-- **Window of Opportunity** : Opportunité fugace
-- **Withering Touch** : Toucher flétrissant
+| Gemme de Soutien (Anglais)    | Traduction Française              | Classe Requise | Niveau Requis | Tier |
+| ----------------------------- | --------------------------------- | -------------- | ------------- | ---- |
+| Acceleration                  | Accélération                      | Dextérité      | 1             | 1    |
+| Ambush                        | Embuscade                         | Intelligence   | 10            | 1    |
+| Ammo Conservation             | Conservation de Munitions         | Dextérité      | 1             | 1    |
+| Arcane Surge                  | Déferlante Arcanique              | Intelligence   | 1             | 1    |
+| Arcane Tempo                  | Tempo Arcanique                   | Intelligence   | 1             | 1    |
+| Blight                        | Fléau                             | Intelligence   | 1             | 1    |
+| Blind                         | Aveuglement                       | Dextérité      | 1             | 1    |
+| Bloodlust                     | Soif de Sang                      | Force          | 1             | 1    |
+| Bonechill                     | Frisson Osseux                    | Intelligence   | 1             | 1    |
+| Brutality                     | Brutalité                         | Force          | 1             | 1    |
+| Burning Damage                | Dégâts de Brûlure                 | Intelligence   | 1             | 1    |
+| Chance to Bleed               | Chance de Saignement              | Force          | 1             | 1    |
+| Chance to Flee                | Chance de Fuite                   | Dextérité      | 1             | 1    |
+| Chance to Ignite              | Chance d'Enflammer                | Intelligence   | 1             | 1    |
+| Combustion                    | Combustion                        | Intelligence   | 8             | 1    |
+| Concentrated Effect           | Effet Concentré                   | Intelligence   | 18            | 1    |
+| Controlled Destruction        | Destruction Contrôlée             | Intelligence   | 18            | 1    |
+| Culling Strike                | Frappe de Moisson                 | Dextérité      | 1             | 1    |
+| Deadly Ailments               | Maux Mortels                      | Force          | 18            | 1    |
+| Efficacy                      | Efficacité                        | Intelligence   | 8             | 1    |
+| Elemental Damage with Attacks | Dégâts Élémentaires avec Attaques | Dextérité      | 18            | 1    |
+| Elemental Focus               | Focalisation Élémentaire          | Intelligence   | 18            | 1    |
+| Empower                       | Renforcement                      | Aucune         | 1             | 1    |
+| Enlighten                     | Éclaircissement                   | Aucune         | 1             | 1    |
+| Faster Attacks                | Attaques Plus Rapides             | Dextérité      | 1             | 1    |
+| Faster Casting                | Incantation Plus Rapide           | Intelligence   | 1             | 1    |
+| Ignite Proliferation          | Prolifération d'Ignition          | Intelligence   | 1             | 1    |
+| Increased Critical Damage     | Dégâts Critiques Accrus           | Dextérité      | 1             | 1    |
+| Increased Critical Strikes    | Coups Critiques Accrus            | Dextérité      | 8             | 1    |
+| Iron Grip                     | Poigne de Fer                     | Force          | 1             | 1    |
+| Iron Will                     | Volonté de Fer                    | Force          | 18            | 1    |
+
+## Tier 2
+
+| Gemme de Soutien (Anglais)    | Traduction Française              | Classe Requise | Niveau Requis | Tier |
+| ----------------------------- | --------------------------------- | -------------- | ------------- | ---- |
+| Aftershock                    | Réplique                          | Force          | 20            | 2    |
+| Ancestral Urgency             | Urgence Ancestrale                | Force          | 20            | 2    |
+| Armour Explosion              | Explosion d'Armure                | Force          | 20            | 2    |
+| Auto Reload                   | Rechargement Automatique          | Force          | 20            | 2    |
+| Charged Traps                 | Pièges Chargés                    | Dextérité      | 31            | 2    |
+| Cold Penetration              | Pénétration de Froid              | Intelligence   | 31            | 2    |
+| Fork                          | Fourche                           | Dextérité      | 31            | 2    |
+| Fortify                       | Fortification                     | Force          | 31            | 2    |
+| Generosity                    | Générosité                        | Force          | 31            | 2    |
+| Hypothermia                   | Hypothermie                       | Intelligence   | 31            | 2    |
+| Immortal Call                 | Appel Immortel                    | Force          | 34            | 2    |
+| Increased Duration            | Durée Accrue                      | Force          | 31            | 2    |
+
+## Tier 3
+
+| Gemme de Soutien (Anglais)    | Traduction Française              | Classe Requise | Niveau Requis | Tier |
+| ----------------------------- | --------------------------------- | -------------- | ------------- | ---- |
+| Ablation                      | Ablation                          | Intelligence   | 30            | 3    |
+| Astral Projection             | Projection Astrale                | Intelligence   | 30            | 3    |
+| Behead                        | Décapitation                      | Force          | 30            | 3    |
+| Biting Frost                  | Gel Mordant                       | Aucune         | 30            | 3    |
+| Cast on Critical Strike       | Incantation sur Coup Critique     | Intelligence   | 38            | 3    |
+| Cast on Death                 | Incantation à la Mort             | Intelligence   | 38            | 3    |
+| Cast on Melee Kill            | Incantation sur Tuerie en Mêlée   | Intelligence   | 38            | 3    |
+| Cast when Damage Taken        | Incantation lors de Dégâts Subis  | Intelligence   | 38            | 3    |
+| Chain                         | Chaîne                            | Intelligence   | 38            | 3    |
+| Cluster Traps                 | Pièges en Grappes                 | Dextérité      | 38            | 3    |
+| Curse On Hit                  | Malédiction sur Coup              | Intelligence   | 38            | 3    |
+| Decay                         | Décomposition                     | Intelligence   | 38            | 3    |
+| Greater Multiple Projectiles  | Projectiles Multiples Supérieurs  | Dextérité      | 38            | 3    |
+| Increased Area of Effect      | Augmentation de la Zone d'Effet   | Intelligence   | 38            | 3    |
+
